@@ -43,6 +43,12 @@
     },
     {
         "remote":        "github",
+        "repository":    "silont-project/arm-eabi-gcc",
+        "target_path":   "prebuilts/gcc/linux-x86/arm/arm-eabi",
+        "branch":        "arm/11"
+    },
+    {
+        "remote":        "github",
         "repository":    "LineageOS/android_external_ant-wireless_antradio-library",
         "target_path":   "external/ant-wireless/antradio-library",
         "branch":        "lineage-18.1"
